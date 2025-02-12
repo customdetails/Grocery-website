@@ -1,4 +1,4 @@
-# 🛒 Grocery Website - Fresh & Organic
+# Grocery Website - Fresh & Organic
 
 ## About the Project  
 The **Grocery Website** is an online marketplace that allows users to browse, order, and purchase fresh groceries, organic products, and household essentials. The platform features a user-friendly shopping cart, secure payments, real-time product search, and seamless checkout.
